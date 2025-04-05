@@ -16,9 +16,16 @@ A minimalist and soothing expense tracker built with React. Track your daily exp
 - CSS (Minimalist Coffee Theme)
 - Recharts (for Pie Chart)
 
-## 📸 Screenshots
+  ## Source
 
-![[Alt Text](C:\Users\SWETA\Pictures\Screenshots)
+  src/
+├── components/
+│   ├── ExpenseForm.jsx
+│   ├── ExpenseList.jsx
+│   └── ExpenseChart.js
+├── App.js
+├── App.css
+└── index.js
 
 
 ## 📦 Setup & Run Locally
@@ -28,12 +35,4 @@ git clone https://github.com/swetamwene/Expense-Tracker-App.git
 cd Expense-Tracker-App
 npm install
 npm start
-src/
-├── components/
-│   ├── ExpenseForm.jsx
-│   ├── ExpenseList.jsx
-│   └── ExpenseChart.js
-├── App.js
-├── App.css
-└── index.js
-![Uploading Screenshot 2025-04-06 001325.png…]()
+
