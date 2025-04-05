@@ -18,7 +18,8 @@ A minimalist and soothing expense tracker built with React. Track your daily exp
 
 ## 📸 Screenshots
 
-> Add screenshots of your app here once deployed or running locally
+![[Alt Text](C:\Users\SWETA\Pictures\Screenshots)
+
 
 ## 📦 Setup & Run Locally
 
